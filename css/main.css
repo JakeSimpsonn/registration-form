@@ -11,7 +11,7 @@ body {
   background-color: #fff;
 }
 
-@@media only screen and (min-width: 60em) {
+@media only screen and (min-width: 60em) {
 
   .space-right {
     padding-right: .5em;
